@@ -116,7 +116,7 @@ Quick executive summary: grasp the sales performance in under 30 seconds / Lectu
 
 
 
-#### Key insights / Constats clés:
+## Key insights / Constats clés:
 
 
 
@@ -140,7 +140,7 @@ Clear diagnosis of margin issues / Diagnostic clair du problème de marge
 
 
 
-#### Major Business Insights / Insights Business Majeurs
+## Major Business Insights / Insights Business Majeurs
 
 
 

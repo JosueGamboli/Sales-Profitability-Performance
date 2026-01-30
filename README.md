@@ -160,7 +160,7 @@ A differentiated pricing strategy is essential / Une strat√©gie de pricing diff√
 
 
 
-Recommendations / Recommandations
+## Recommendations / Recommandations
 
 
 
